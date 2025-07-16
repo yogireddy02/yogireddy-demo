@@ -1,4 +1,4 @@
 # yogireddy-demo
 This is my first git repository
 <br>
-Author-Yogi Reddy
+Author-Yogi Reddy (Developer)
